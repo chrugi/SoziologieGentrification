@@ -1,0 +1,327 @@
+#+TITLE: Soziologie: Vor der Gentrification? Feldstudie der Rosengartenstrasse in Zürich
+#+SUBTITLE: Mitschriften und Notizen
+#+AUTHOR: Christian Sangvik
+#+EMAIL: christian.sangvik@gmx.ch
+
+#+LATEX_CLASS_OPTIONS: [a4paper,11pt,ngerman]
+#+LATEX_CLASS: koma-article
+#+LATEX_HEADER: \addtokomafont{disposition}{\rmfamily}
+#+LATEX_HEADER: \usepackage{ngerman}
+
+* Administration
+
+  - Dozentur Soziologie
+  - Keine Prüfung, aber *Anwesenheitskontrolle*
+  - Gruppenarbeiten zu verschiedenen Abschnitten der Strasse.
+  - Am Schluss wird eine Zeitung entwickelt.
+  - Wahlfacharbeit möglich. Informationen auf der [[http://www.soziologie.arch.ethz.ch/de/][Dozenturwebseite]].
+
+** Übersicht Programm
+
+    | 23. Feb | 01 | Thematische Einführung                              |
+    | 02. Mär | 02 | Gastinput und Gruppeneinteilung                     |
+    | 09. Mär | 03 | Methoden und wissenschaftliches Arbeiten            |
+    | 16. Mär | 04 | Feedback zu Abgaben, Interviewleitfaden             |
+    | 23. Mär | -- | Seminarwoche                                        |
+    | 30. Mär | -- | Osterferien                                         |
+    | 06. Apr | -- | Osterferien                                         |
+    | 13. Apr | 05 | Feedback zu Abgaben, Präsentation Material          |
+    | 20. Apr | 06 | Tischkritik I                                       |
+    | 27. Apr | 07 | Tischkritik II                                      |
+    | 04. Mai | 08 | *Schlussabgabe*, Wahlfachauswertung, *Präsentation* |
+    | 11. Mai | 09 | Kein Wahlfach, Zeitungsproduktion                   |
+    | 18. Mai | 10 | Abschlussveranstaltung vor Ort                      |
+
+** Fragestellung
+
+    - Wie gestalten sich das alltägliche städtische Leben entlang der
+      Rosengartenstrasse und im Quartier heute?
+    - Was zeichnet das Quartier aus? Welche urbane Qualitäten schätzen die
+      Bewohner und Gewerbebetreibenden?
+    - Was würde eine Verkehrsberuhigung für sie bedeuten?
+
+** Aufgabe
+
+    Wir untersuchen den anlaufenden Veränderungsprozess entlang der
+    Rosengartenstrasse und versuchen, andere Möglichkeiten einer Städtebaulichen
+    Entwicklung zu denken.
+
+** Was erwartet Sie?
+
+    - Gruppenarbeit
+    - Intensive Auseinandersetzung mit Gentrifizierung, einem aktuellen Thema von
+      Architektur und Städtebau
+    - Starker Praxisbezug, konkretes Beispiel, gemeinsamer Output
+    - Gastbeiträge
+    - Erlernen und Anwendung der Werkzeuge für eine Feldforschung
+      (Interviewtechniken, Beobachtungen, Fotos, Text)
+    - Zeit während des Semesters für Feldforschung, Stunden werden
+      kompensiert. Zeit selber einteilen!
+    - Zeitung als gemeinsamer Output mit Ergebnissen des Wahlfachs, -
+      Intervention!
+
+** Gruppeneinteilung
+
+    Gruppe 1
+
+* Vorlesungen
+
+** Thematische Einführung
+
+*** Rosengartenstrasse
+
+    Das Thema des Seminars ist die grössere Region der Rosengartenstrasse
+    zwischen Bucheggplatz und der Limmat in Wipkingen. Sie ist seit 1972 ein
+    Provisorium der Westtangente der Stadt Zürich. Ausserdem ist sie eine der
+    Wichtigsten Autostrassen in ganz Zürich. Die Verkehrslast steht bei über
+    50'000 Autos pro Tag, wbei der Grossteil auf den Individualverkehr
+    zurückzuführen ist.
+
+    Die Rosengartenstrasse schneidet Wipkingen in zwei Teile, die sehr
+    sporadisch miteinander verbunden sind. Bis in die 1970er Jahre war sie eine
+    normale Quartierstrasse. Die Struktur des Quartiers ist noch sehr dörflich,
+    aber mittlerweile durch die stark befahrene Strasse unterbrochen, und die
+    daraus resultierenden zwei Subquartiere sind stark getrennt
+    voneinander. Viele Anwohner sind der Strasse natürlich nicht sonderlich
+    positiv gegenübergestellt.
+
+    Auch die Lärmeindämmungsvorkehrungen tragen weiter zur Abtrennung der
+    einzelnen Teilquartiere bei.
+
+    Die neue Verkehrsplanung sieht vor, diesen Umstand zu ändern. Geplant ist
+    ein Tunnel und eine neue Tramlinie durch das Quartier. Der Tunnel kann aber
+    frühestens 2030 gebaut werden und das Tram wird nochmals zwei Jahre länger
+    dauern. Die dafür gerechneten Kosten sind immens (aktuell bei rund einer
+    Milliarde Franken) und steigen ständig.
+
+    Der Tunnel führt in der Vision direkt vom Milchbucktunnel zur Limmat. Der
+    Autotunnel wird eine Schlaufe machen müssen um die Steigung für die
+    Fahrzeuge einzuhalten.
+
+    Das Projekt ist aber erst in der Projektphase und eine Realisierung steht
+    noch schwer zur Debatte.
+
+    Die Vorzüge sind aber klar abzusehen. Durch das Quartier würde dann eine
+    Langsamverkehrszone führen (Tempo 30). Der fehlende Grossverkehr
+    ermöglichte natürlich auch neue Städtebauliche Möglichkeiten.
+
+    Alleine die Ankündigung dieses Projektes ruft aber jetzt bereits erste
+    Investoren auf den Plan an der Rosengartenstrasse aufwertungen zu
+    betreiben. Zu erwarten sind stark steigende Mieten und eine
+    Gentrifizierung.
+
+    Die Grundeigentümerschaft entlang der Strasse ist sehr heterogen. Sie reicht
+    von Genossenschaften über private Grundbesitzer bis hin zu Stadtgrund. Es
+    gibt keine grossflächigen Besitztümer sondern quasi durchgehend kleine
+    Parzellen.
+
+    Welche Rolle den Genossenschaften zukommen würde ist fraglich, aber sie wären
+    möglicherweise der Schlüssel zu günstigeren Mieten, auch wenn sie im
+    Vergleich zum Status Quo natürlich ansteigen würden.
+
+    Aktuell entsteht von einer Stiftung ein Studentenwohnheim. Man sieht also
+    bereits eine Transformation im der Struktur, obwohl noch nichts konkretes
+    politisch auf dem Tisch steht.
+
+*** Weststrasse Zürich
+
+    Die Weststrasse teilt ein ähnliches Schicksal, was mit der Westumfahrung
+    begonnen hat. Pro Stunde waren damals circa 1000 Autos und 100 Lastwagen
+    gezählt.
+
+    Heute prägt das Quartier einen völlig anderen Charakter. Öffentliche Räume
+    sind die Priorität und das Gebiet ist sehr fussgängerfreundlich ausgelegt.
+
+    Viel Gewerbe, das aber auf den Verkehr ausgerichtet war sieht die
+    Entwicklung nicht nur positiv.
+
+    Vor der Strassenberuhigung wohnten ca. 1200 Menschen an der Strasse,
+    mehrheitlich ausländischer Herkunft.
+
+    - [[https://www.srf.ch/play/tv/tagesschau/video/weststrasse-endlich-wieder-ohne-verkehr?id%3D77866ac6-343f-4af1-b856-b4dbf1a56092][Schweiz Aktuell, Bericht vom 2.8.2010]]
+    - [[https://www.srf.ch/play/tv/schweiz-aktuell/video/weststrasse?id%3D7a960266-9558-460f-882f-db7c572aa28e][Schweiz Aktuell, Bericht vom 9.2.2011]]
+
+    Die Wohnungen die in den umgebauten Bürogebäuden und Wohnhäusern entstanden
+    sind natürlich unerschwinglich für die damaligen Bewohner. Die Menschen
+    wurden regelrecht aus dem Quartier vertrieben. In jedem zweiten Haus wurden
+    den Bewohnern gekündigt.
+
+    Bewegungen, die Stadt dazu zu bewegen, dieser Entwicklung entgegenzutreten
+    blieben erfolglos. Die Stadt habe den privaten Eigentümern nicht
+    hineinzureden. Es existiere keine rechtliche Grundlage für dergleichen. Dies
+    sitmmt nicht ganz, aber die Stadt hat es sich so einfach gemacht uns sich
+    aus der Entwicklung herausgehalten.
+
+    Innert weniger Monaten wurde die Strasse komplett umgebaut. Die
+    demographische Verteilung hat sich stark verändert.
+
+    Im Gegensatz zur Rosengartenstrasse waren an der Weststrasse aber keine
+    Genossenschaften oder Grundstück der Stadt an der Strasse, was die Willkür
+    der privaten Investoren natürlich noch bestärkte.
+
+    Es gab und gibt Proteste von Seiten der Kommunisten und Sozialisten, die
+    sich gegen die Gentrifizierung gewehrt hat. Bis heute ist die Diskussion
+    noch nicht abgeflacht, und Gentrifizierung wird oft mit diesem Beispiel
+    diskutiert.
+
+    Die neue Weststrasse wird aber nicht das Zukunftsszenario der
+    Rosengartenstrasse werden.
+
+*** Die /neue/ Weststasse
+
+    Zeitungsartikel des Wahlfaches. [[http://www.soziologie.arch.ethz.ch/_DATA/90/FINAL_DieNeueWeststrasse_160517.pdf][Online Verfügbar]].
+
+    Es wird am Schluss dieses Wahlfaches eine ähnliche Publikation geben.
+
+** Inputvortrag zur Verkehrsplanungsgeschichte in Zürich, Daniel Weiss, gta
+
+*** Wipkingen und die Rosengartenstrasse, Ein Stück Stadtentwicklungsgeschichte
+
+    Wipkingen war bis mitte des 19. Jh. bäuerlich und ärmlich geprägt. Ab 1880
+    wurde Zürich immer wichtiger aufgrund der Entwilckung des
+    Eisenbahnknotenpunkts.
+
+    1872 wurde in Wipkingen eine erste Brücke über die Limmat gebaut, und somit
+    mit der Zürcher Industrie verbunden. Es kam zu einer ersten
+    verstädterung. Gebaut wurden aber eher ärmliche Mietskasernen. Die
+    Einwohnerzahl stieg rapide, aber nicht die Steuereinnahmen. So konnte
+    Wipkingen die Infrastruktur nicht halten und verschuldete sich
+    zusehends.
+
+    Mit dem Zusammenschluss mit der Stadt änderte sich dies. Die Bevölkerung
+    explodierte. 1892 wurde die Nordstrasse in Betrieb genommen und ein neues
+    Schulhaus gebaut. Die Stadt Zürich übernahm nach der Eingemeindung die
+    Schulden. 1898 Wurde Die Strassenbahn nach Wipkingen verlängert und bis zur
+    Nordbrücke geführt. Der untere Dorfkern musste neuen Strassen weichen. Diese
+    Entwicklung fand über einen sehr kurzen Zeitraum von rund 15 Jahren statt.
+
+    1934 wurde dann auch der obere Dorfkern geschleift zugunsten der
+    Rosengartenstrasse. Wipkingen erhält eine neue Zentralität am neu erstellten
+    Bahnhof.
+
+    Die Bautätigkeiten im Zentrum von Wipkingen war vor allem durch private
+    Investoren geprägt. Die Stadt baute vor Allem Strassen. Wipkingen wurde
+    immer mehr richtung Ober- und Unterstrass orientiert und entwickelte sich
+    vor allem in diese Richtung.
+
+    Um die Stadtentwicklung zu kontrollieren Baute die Stadt weitere
+    Infrastruktur und ermöglichte es diversen Genossenschaften unter Auflagen zu
+    bauen.
+
+    Die Bedeutung der Rosengartenstrasse kommt daher, dass sehr lange die Brücke
+    zwischen Escher-Wyss platz un Wipkingen die einzige befahrbare Strasse war,
+    die die Industrie mit Wipkingen verband.
+
+    Zürich plante eine Millionenstadt zu werden und plante
+    Satellitenstrassen. Mit dem Beschluss von 1958 zu einem flächendeckenden
+    Netz an Nationalsatrassen wurde aber der Druck auf die Bebauung schwächer,
+    da die Menschen von weiter her persönlich mobil anreisen konnten.
+
+    Es entstanden grosse Verkehrsplanerische Massnahmen, wovon aber viele nicht
+    umgesetzt wurden.
+
+    Geplant wurde aber bereits der Cityring. Es hätte einen grossen
+    Umfahrungsring und Durchfahrtstangenten geben sollen. Das Kernstück der
+    Verkehrsplanung war aber das grosse "Express-Y". Von Norden her durch den
+    neuen Milchbucktunnel direkt zum Letten und im Westen der Limmat entlang
+    ebenfalls zum Autobahnkreuz Letten. Nach süden hin sollte das Y bis zur
+    Üetlibergtangente und den Seetunnel münden.
+
+    Der Verkehr wuchs schneller als die Infrastruktur, deshalb mussten
+    Überbrückungslösungen hinhalten. Das Provisorium wurde 1982 in Betrieb
+    genommen. Die Stimmung in der Bevölkerung und bei Fachleuten hatte sich nun
+    aber verändert.
+
+    Zürich schrumpfte und die Leute zogen in die Agglomerationen. Es wurde eine
+    Abkehr von den Planungsprämissen gefordert. Die Verbetonierung der
+    Landschaft und Zersiedelung wurde angeprangert.
+
+    Es wurde eine Verkehrsberuhigung vorgeschlagen. Das ZAS (Zürcher
+    Arbeitsgruppe für Städtebau), eine Gruppe von diversen Akteuren, unter
+    Anderen auch Rolf Keller, wollte die Blechlawinen aus der Stadt
+    verbannen. Bereits 1960 wurde die Verkehrsplanung und deren Auswirkungen,
+    vor Allem aber das grosse Y angegriffen. Es wurde auch politisch druck
+    gemacht, und in der Bevölkerung wurde mittels einer Initiative das Y
+    verhindert.
+
+    Die ganzen Diskussionen zogen sich sehr in die Länge. Die Bewegung "Käi
+    Autobahn dur d' Stadt" kam auf. Der Bau des Milchbucktunnels hatte aber
+    schon lange begonnen. So kann man das Y auch heute noch in der Stadt lesen,
+    obwohl keine Autobahn hierdurch führt.
+
+    Politisch war die Stadt und der Kanton nicht immer der gelichen Meinung und
+    die Beschlüsse der Stadt wurden mehrmals vom Kanton überstimmt. Die Hürden
+    des Föderalismus lässt sich in dieser Planungsgeschichte gut ablesen.
+
+    Als letztes Teilstück der Westtangente rückt nun heute die
+    Rosengartenstrasse in den Fokus. Was könnte eine Verkehrsberuhigung heute
+    bewirken?
+
+** Sitzung vom 9. März
+
+*** Wahrnehmungsspaziergang
+
+    
+
+*** Beobachtung
+
+    Loslösen von Vorstellungen.
+
+*** 
+
+* Arbeitsorganisation, Agenda
+
+** Freitag, 2. März
+
+   - [X] Zeitung lesen
+
+* Gruppenorganisation
+
+  | Alfred Graber     | agraber@student.ethz.ch  | 076 417 41 51 |
+  | Christian Sangvik | sangvikc@student.ethz.ch | 079 938 42 07 |
+  | Dario Caccialupi  | darioca@student.ethz.ch  | 079 957 76 08 |
+  | Ion Blaja         | iblaja@student.ethz.ch   | 079 629 75 60 |
+  | Rafael Gherdan    | ghredanr@student.ethz.ch | 078 819 93 28 |
+  | Jorgos Ledermann  | jorgosl@student.ethz.ch  | 079 618 61 37 |
+  | Jan Honegger      | hojan@student.ethz.ch    | 079 838 38 50 |
+  | Timmy Huang       | thuang@student.ethz.ch   | 076 683 00 87 |
+  | Louis Strologo    | louiss@student.ethz.ch   | 076 282 03 97 |
+  | Joël Maître       | jmaitre@student.ethz.ch  | 079 581 16 78 |
+
+** Fragenkatalog
+
+   - Was denken Sie, wird passieren, wenn das Quartier verkehrsberuhigt wird?
+     Wie wird sich das Quartier verändern?
+   - Wenn Sie könnten, was würden Sie im Quartier verändern?
+   - Würden Sie hier Ihre Kinder grossziehen wollen?
+
+
+   - Wohnen Sie hier?
+   - Wielange wohnen Sie bereits hier?
+   - Wo halten Sie sich am liebsten auf? Warum?
+   - Welche Art Leute wohnen hier? Altersgruppe, etc.?
+   - Was gefällt Ihnen im Quartier am besten?
+   - Was hat sich seit Sie hier wohnen verändert?
+   - Haben sie von möglichen Veränderungen im Quartier gehört? Wenn ja, welche
+     sind dies?
+   - Wo ist die nächste Pizzeria?
+   - Haben Sie Kinder?
+   - Warm sind Sie hergezogen?
+   - Finden Sie Ihre Miete angemessen?
+   - Gefallen Ihnen die Baulichen veränderungen?
+   - Wie ist die Nachtruhe?
+   - Haben Sie ein Auto, und benutzen Sie es im Alltag?
+   - Welche Fortbewegungsmittel benutzen Sie?
+   - Wo trifft man Sie am Wochenende?
+   - Was arbeiten Sie?
+   - Wieso geben Sie uns das Interview?
+   - Wie finden Sie die Wohnqualität im Quartier?
+   - Welchen Einfluss hat die Rosengartenstrasse auf Ihr Leben oder ihr
+     Quartier? Wie laut ist die Strasse für Sie?
+   - Halten sie sich im Quartier auf? Für welche Zwecke? Wo?
+   - Wie ist die Kundschaft in diesem Quartier?
+
+
+   - Wann hatten Sie das letzte mal Geschlechtsverkehr? Wie verhüten Sie?
+   - Wo bekomme ich Drogen?
+   - Haben Sie Haustiere?
