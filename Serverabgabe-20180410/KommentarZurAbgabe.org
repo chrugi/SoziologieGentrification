@@ -1,0 +1,36 @@
+#+TITLE: Kommentar zur Serverabgabe
+#+AUTHOR: Christian Sangvik
+#+DATE: 10. April 2018
+
+#+LATEX_CLASS: koma-article
+#+LATEX_CLASS_OPTIONS: [a4paper,ngerman,11pt]
+
+#+LATEX_HEADER: \usepackage{url}
+#+LATEX_HEADER: \usepackage{ngerman}
+
+#+OPTIONS: toc:nil
+
+#+BEGIN_LaTeX
+\begin{verbatim}
+Guten Tag,
+
+Ich muss hier schon sagen, dass ich es eine echte Zumutung finde, wie ich auf
+Moodle meine Daten nicht abgeben kann. Sie verlangen von uns ein PDF mit dem
+gesamten Inhalt. Dieses fertige ich dann an um dann vor dem Problem zu stehen,
+dass ein PDF Dokument nicht grösser sein darf als 5Mib (Was angesichts von
+alleine drei geforderten Bildern wohl kaum erreichbar ist), um dann wenn ich
+mühsam die Bilder aus dem Dokument entfernt habe vor dem Problem zu stehen,
+dass der Server die Bilder dann auch nicht entgegen nimmt.
+
+Ich schicke Ihnen nun daher hier einen Link zu meiner Abgabe, die ich halt
+nicht auf Moodle hochladen kann.
+
+Ich wünsche Ihnen trotzdem noch einen schönen Tag.
+
+Mit freundlichen Grüssen
+
+Christian Sangvik
+\end{verbatim}
+#+END_LaTeX
+
+[[https://github.com/chrugi/SoziologieGentrification/blob/master/Serverabgabe-20180410/AbgabeMaterial-ChristianSangvik-Gruppe1.pdf]]
