@@ -28,7 +28,7 @@
 
   #+ATTR_LATEX: :width \textwidth :placement [H]
   #+CAPTION: Tièchenstrasse, Christian Sangvik, 9.4.18
-  [[file:Fotos/DSC_0522.JPG]]
+  [[file:../Bilder/DSC_0522.JPG]]
 
   Am Bucheggplatz dann aber zeigt sich aus dem Nichts ein völlig anderes
   Bild. Die Bebauung ist viel höher. Der Raum vor mir ist aber trotzdem von der
@@ -42,7 +42,7 @@
 
   #+ATTR_LATEX: :width \textwidth :placement [H]
   #+CAPTION: Bucheggplatz, Mündung Tièchenstrasse, Christian Sangvik, 9.4.18
-  [[file:Fotos/DSC_0533.JPG]]
+  [[file:../Bilder/DSC_0533.JPG]]
 
   Die Insel des Bucheggplatzes selber ist gut belebt, allerdings nur von auf den
   Anschluss wartenden Pendlern des öffentlichen Verkehres. Nur vor dem neuen
@@ -63,7 +63,7 @@
 
   #+ATTR_LATEX: :width \textwidth :placement [H]
   #+CAPTION: Bucheggplatz, Ausblick Rosengartenstr., Christian Sangvik, 9.4.18
-  [[file:Fotos/DSC_0555.JPG]]
+  [[file:../Bilder/DSC_0555.JPG]]
 
   Ich habe mich persönlich in diesem Quartier nicht sonderlich wohl gefühlt und
   war froh es bald wieder verlassen zu können. Schon nach kurzer Zeit hatte ich
