@@ -1,5 +1,5 @@
 #+TITLE: Soziologie: Vor der Gentrification? Feldstudie der Rosengartenstrasse in Zürich
-#+SUBTITLE: Mitschriften und Notizen
+#+LATEX_HEADER: \subtitle{Mitschriften und Notizen}
 #+AUTHOR: Christian Sangvik
 #+EMAIL: christian.sangvik@gmx.ch
 
