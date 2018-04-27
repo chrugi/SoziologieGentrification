@@ -1,0 +1,72 @@
+#+LATEX_CLASS: koma-article
+#+LATEX_CLASS_OPTIONS: [a4paper,ngerman,11pt]
+
+#+LANGUAGE: de
+#+LATEX_HEADER: \usepackage{ngerman}
+#+LATEX_HEADER: \usepackage{url}
+#+LATEX_HEADER: \usepackage{breakurl}
+#+LATEX_HEADER: \addtokomafont{disposition}{\rmfamily}
+
+#+OPTIONS: toc:nil num:0
+
+#+TITLE: Treffpunkt
+#+LATEX_HEADER: \subtitle{Auszug aus den gesammelten Ressourcen}
+#+AUTHOR: Christian Sangvik
+#+DATE: 26. April 2018
+
+* Text
+
+  Die Insel des Bucheggplatzes selber ist gut belebt, allerdings nur von auf den
+  Anschluss wartenden Pendlern des öffentlichen Verkehres. Nur vor dem neuen
+  roten Container scheint es ein wenig ruhiger zu sein und die Menschen dort
+  verweilen an den kleinen Tischen oder auf den Bänken. [...]  Alles in allem
+  wirkt der Platz auf mich aber sehr kalt und abweisend. Es sind viele Menschen
+  hier, doch wenig Leben. [...]
+
+  Das Prägende am ganzen Quartier ist aber auf jeden Fall der Verkehr und das
+  Mangeln von verweilenden Menschen. [...]
+
+  Einige Mütter ginten mit ihren Kindern zum GZ Buchegg.
+
+* Interviews
+
+** Interview I
+
+   - Warum haben Sie diesen Standort gewählt?
+
+     [...] Wollten Ort, wo man sich treffen kann und Kaffee trinken. Aus unserer
+     eigenen Not und dem eigenen Wunsch, so einen Ort zu haben, heraus haben wir
+     gedacht, wenn es sonst niemand macht, dann eröffnen wir einen solchen Ort.
+     Mit dem Container konnten wir den Platz auch ein wenig von der lauten
+     Strasse abschirmen. Die roten Bänke hier werden nun auch benutzt was sie
+     vorher nie wurden auch wenn sie schon lange da standen.
+
+   - Nutzen Sie das Quartier auch in der Freizeit? Wohnen Sie in der Nähe?
+
+     Ja. Wir haben alle Kinder und nutzen das GZ nebenan mit den Tieren und
+     Spielplatz. Wohnen hier und arbeiten alle in der Umgebung. Sind immer hier
+     unterwegs.
+
+   - Wie würden Sie ihre Kundschaft beschreiben?
+  
+     [...] Aber auch sehr viele Quartierbewohner wie wir es sind und auch ältere
+     Leute die hierher kommen um einen Kaffee zu trinken. [...]
+
+** Interview II
+
+   - Sind Sie oft in diesem Quartier unterwegs?
+
+     Ja, ich wohne hier, und arbeite ganz in der Nähe. Mit den Kindern gehen wir
+     oft ins Gemeinschaftszentrum.
+
+   - Wo halten Sie sich im Quartier auf?
+
+     In unserer Genossenschaftssiedlung treffen wir uns häufig im Hof und
+     sprechen miteinander, wenn ich einkaufen muss, dann gehe ich für das meiste
+     in den Denner, sonst sind wir noch oft im Gemeinschaftszentrum oder gehen
+     Richtung Wald oder Schrebergärten, die sehr nahe sind.
+
+   - Gefällt es Ihnen hier zu wohnen?
+
+     Ausserdem ist das GZ super und das Bad Allenmoos ist nur zwei Tramstationen
+     entfernt.
