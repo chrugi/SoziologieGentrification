@@ -13,9 +13,20 @@
 
 ** TODO Gemeinsamer Text (6000 - 7000 Zeichen ohne Leerzeichen)
 
-   Text verdichtet Material aus Beobachtungsprotokoll..Interviews
+   | Einstieg                           | Jorgos Ledermann  |
+   | Alltagsleben im Quartier           | Joël Maître       |
+   | Container                          | Dario Caccialupi  |
+   | Qualitäten allgemein  Buchegg      | Christian Sangvik |
+   | Was macht einen Aufenthaltsort aus | Louis Strologo    |
+   | These                              | Rafael Gherdan    |
+   | These                              | Jan Honegger      |
+   | Reinschrift                        | Ion Blaja         |
+   | Reinschrift                        | Alfred Graber     |
+
 
 ** TODO 20 Fotos
+
+   | Fotos | Timmy Huang |
 
 * Fragestellung
 
@@ -29,6 +40,9 @@
   - Was würde eine Verkehrsberuhigung für sie bedeuten?
 
 * Struktur Text
+
+** Einstieg
+*** Provokation/Eyecather Beobachtungsprotokoll Jorgos
 
 ** Alltagsleben im Quartier
 *** Beobachtungen eröffnen Text
@@ -59,10 +73,11 @@
       - Treffpunkte (Bsp. Bushaltestelle um gemeinsam weg zu gehen.)
 *** Qualität halbprivater Treffpunkte
 *** Qualität öffentlicher Treffpunkt Container
-    - Container einzig wirklich öffentlicher Treffpunkt.
+    - Container einzig wirklich öffentlicher Aufenthaltsort.
 *** Wie hebt sich der Container als Aufenthaltsort aus im vergleich zu anderen Treffpunkten im Quartier?
     - Aufenthaltsortsqualität
     - Wie öffentlich ist das GZ, Innenhöfe, Restaurant?
+    - Naherholungsgebiet Wald, Waid, Schrebergärten
 *** Alternativen und Ergänzungen im Quartier
 **** GZ Buchegg erwähnen
 
