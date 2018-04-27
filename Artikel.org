@@ -1,0 +1,72 @@
+#+TITLE: Artikel
+#+AUTHOR: Gruppe 1
+#+DATE: 27. April 2018
+
+#+LATEX_CLASS: koma-article
+#+LATEX_CLASS_OPTIONS: [a4paper,ngerman,11pt]
+
+#+LATEX_HEADER: \usepackage{ngerman}
+#+LATEX_HEADER: \addtokomafont{disposition}{\rmfamily}
+
+* TODO Gemeinsamer Text (6000 - 7000 Zeichen ohne Leerzeichen)
+
+  Text verdichtet Material aus Beobachtungsprotokoll..Interviews
+
+* TODO 20 Fotos
+
+
+* These
+
+  Es gibt im Quartier zwar Treffpunkte, aber keine Aufenthaltsorte.
+
+* Text
+
+**  Treffpunkte ohne Aufenthaltsorte
+
+*** Qualität der Aufenthaltsorte
+
+*** Falsche Zielgruppe?
+
+* Fragestellung
+
+  - Wie gestalten sich das alltägliche städtische Leben entlang der
+    Rosengartenstrasse und im Quartier?
+
+  - Was zeichnet das Quartier aus?
+
+  - Welche urbanen Qualitäten schätzen die Bewohner und Gewerbebetreibenden?
+
+  - Was würde eine Verkehrsberuhigung für sie bedeuten?
+
+* Struktur
+
+** Verkehrsknotenpunkt
+
+** Container
+
+*** Geschichte des Containers
+
+    sehr kurz
+
+*** Was war vorher, wie verändert der Container die Qualität?
+
+    Leute waren nicht da, wie kommen sie jetzt an den Ort?
+
+*** Qualitäten allgemein
+
+** Was macht einen Aufenthaltsort aus?
+
+*** Wie hebt sich der Container als Aufenthaltsort aus im vergleich zu anderen Treffpunkten im Quartier?
+
+    Aufenthaltsort vs. Treffpunkt, vage diskutiert, konkret am Beispiel
+    Container aufgezeigt.
+
+** These (anhand von Ort, konkret)
+
+** Treffpunkt Container
+
+** Alternativen und Ergänzungen im Quartier
+
+*** GZ Buchegg erwähnen
+
+** Innenhöfe und halbprivate Treffpunkte
