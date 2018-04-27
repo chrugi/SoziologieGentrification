@@ -8,24 +8,14 @@
 #+LATEX_HEADER: \usepackage{ngerman}
 #+LATEX_HEADER: \addtokomafont{disposition}{\rmfamily}
 
-* TODO Gemeinsamer Text (6000 - 7000 Zeichen ohne Leerzeichen)
 
-  Text verdichtet Material aus Beobachtungsprotokoll..Interviews
+* Arbeitsteilung
 
-* TODO 20 Fotos
+** TODO Gemeinsamer Text (6000 - 7000 Zeichen ohne Leerzeichen)
 
+   Text verdichtet Material aus Beobachtungsprotokoll..Interviews
 
-* These
-
-  Es gibt im Quartier zwar Treffpunkte, aber keine Aufenthaltsorte.
-
-* Text
-
-**  Treffpunkte ohne Aufenthaltsorte
-
-*** Qualität der Aufenthaltsorte
-
-*** Falsche Zielgruppe?
+** TODO 20 Fotos
 
 * Fragestellung
 
@@ -38,35 +28,45 @@
 
   - Was würde eine Verkehrsberuhigung für sie bedeuten?
 
-* Struktur
+* Struktur Text
 
-** Verkehrsknotenpunkt
+** Alltagsleben im Quartier
+*** Beobachtungen eröffnen Text
+**** Ruhig im Quartier selber
+**** Innenhöfe und Gärten belebt
+**** Wenig Passanten, nur Umsteigpendler
+**** Verkehrsknotenpunkt
+***** Umsteigeort
 
 ** Container
-
 *** Geschichte des Containers
-
     sehr kurz
-
 *** Was war vorher, wie verändert der Container die Qualität?
-
     Leute waren nicht da, wie kommen sie jetzt an den Ort?
+    - Bänke und allgemeine Platzgestaltung
 
-*** Qualitäten allgemein
+** Qualitäten allgemein Buchegg
+*** Zentralität, Erschliessung zu anderen Gebieten
+*** Dörfliche Qualität
+*** Hohe Anzahl an Genossenschaften
+**** Quatiersbewohner haben gutes Verhältnis untereinander
+     Haben wenig Bedarf für öffentlichere/zentralere Aufenthaltsorte, da
+     Genossenschaften gut funktionieren
 
 ** Was macht einen Aufenthaltsort aus?
-
+*** Wie kommen die Menschen zusammen?
+    - Aufenthaltsort vs. Treffpunkt
+      - Treffpunkte (Bsp. Bushaltestelle um gemeinsam weg zu gehen.)
+*** Qualität halbprivater Treffpunkte
+*** Qualität öffentlicher Treffpunkt Container
+    - Container einzig wirklich öffentlicher Treffpunkt.
 *** Wie hebt sich der Container als Aufenthaltsort aus im vergleich zu anderen Treffpunkten im Quartier?
-
-    Aufenthaltsort vs. Treffpunkt, vage diskutiert, konkret am Beispiel
-    Container aufgezeigt.
+    - Aufenthaltsortsqualität
+    - Wie öffentlich ist das GZ, Innenhöfe, Restaurant?
+*** Alternativen und Ergänzungen im Quartier
+**** GZ Buchegg erwähnen
 
 ** These (anhand von Ort, konkret)
-
-** Treffpunkt Container
-
-** Alternativen und Ergänzungen im Quartier
-
-*** GZ Buchegg erwähnen
-
-** Innenhöfe und halbprivate Treffpunkte
+   - Es gibt im Quartier zwar Treffpunkte, aber keine Aufenthaltsorte.
+*** Veränderungen bei Verkehrsberuhigung für Treffpunkte
+     Nicht prinzipiell abhängig von Verkehr, sondern Initiativen.
