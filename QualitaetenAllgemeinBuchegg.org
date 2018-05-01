@@ -1,0 +1,40 @@
+#+TITLE: Qualitäten allgemein Buchegg
+#+AUTHOR: Christian Sangvik
+#+DATE: 2. Mai 2018
+
+#+OPTIONS: toc:nil
+
+#+LATEX_CLASS: koma-article
+#+LATEX_CLASS_OPTIONS: [a4paper,ngerman,11pt]
+#+LATEX_HEADER: \addtokomafont{disposition}{\rmfamily}
+#+LATEX_HEADER: \usepackage{ngerman}
+#+LATEX_HEADER: \usepackage{url}
+
+#+BEGIN_LaTeX
+\noindent{}
+#+END_LaTeX
+Was die Qualitäten des Quartiers um den Bucheggplatz sind, mag auf den ersten
+Blick nicht gleich ersichtlich sein. Das ganze Gebiet scheint von der
+Blechlawine des Privatverkehrs regelrecht überrollt und verschluckt zu werden.
+
+Trotzdem wollen die Leute hier nicht weg. Keiner unserer Interviewpartner hegte
+den Wunsch, woanders zu wohnen, denn die Qualitäten überwiegen, versicherte man
+uns in jedem Gespräch. Sobald man sich ein paar Meter von den Hauptachsen
+wegbewegt können wir das auch nachvollziehen. Es zeigt sich ein komplett anderes
+Bild als zuvor. Das Quartier hat offensichtlich auch seine ruhigen und
+gemütlichen Orte und entwickelt so einen eigentümlich einladenden und fast
+intimen Charakter. In den diversen Innenhöfen der angrenzenden Überbauungen
+findet ein anderes Leben statt, als wir erwartet haben.
+
+Die Bewohner schätzen es sehr, dass sie auf der einen Seite fast wohnen, wie auf
+dem Land; mit ruhigen Quartiersstrassen, wo die Kinder draussen spielen können,
+ohne dass man gleich Angst haben muss, dass ihnen etwas zustösst. Der sehr nahe
+gelegenen Wald und die Schrebergärten im Waid dienen als Naherholungsgebiet. Auf
+der anderen Seite ist man hier phänomenal an den Rest der Stadt angebunden, egal
+ob mit Bus, Tram oder dem Auto. Diese Zentralität schätzen natürlich auch die
+Gewerbetreibenden.
+
+Die vielen Genossenschaften des Quartiers begünstigen auch das Sozialleben. Die
+Bewohner scheinen ein gutes Verhältnis und wesentlich mehr Kontakt untereinander
+zu haben, als es für eine Stadt zu erwarten ist. So sind denn die Höfe und
+Freiflächen sehr wichtig für das Alltagsleben im Quartier.
